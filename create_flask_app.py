@@ -177,6 +177,8 @@ flask-migrate
 flask-jwt-extended
 python-decouple
 python-dotenv
+pywin32
+fcntl
 gunicorn
 Flask-CORS
 werkzeug""",
