@@ -1,8 +1,8 @@
-# Flak-Framework 🌐
+# Flask-Framework 🌐
 
 ## Description
 
-Flak-Framework is an open-source Python project that helps you set up a full Flask project environment quickly. It comes with pre-written code for Authentication and includes the following features:
+Flask-Framework is an open-source Python project that helps you set up a full Flask project environment quickly. It comes with pre-written code for Authentication and includes the following features:
 
 - **🧩 Flask-Restx**: Provides a structured and documented REST API.
 - **🔐 JWT and Werkzeug powered authentication**: Secure user authentication with JSON Web Tokens and Werkzeug for Flask.
