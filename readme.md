@@ -17,20 +17,19 @@ Flask-Framework is an open-source Python project that helps you set up a full Fl
 ## Instructions for Running the Project
 
 To run the project, follow these steps:
-
 0. **Download the create_flask_app.py file and put it in a folder for your new project and run it**
 
-   - **for Python**
+- **for Python**
 
-   ```bash
-   python create_flask_app.py
-   ```
+```bash
+python create_flask_app.py
+```
 
-   - **or for Python3**
+- **or for Python3**
 
-   ```bash
-   python3 create_flask_app.py
-   ```
+```bash
+python3 create_flask_app.py
+```
 
 1. **Navigate to the project directory:**
 
