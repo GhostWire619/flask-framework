@@ -117,3 +117,18 @@ If you need to update the `requirements.txt` file to reflect new or updated depe
    ```
 
 ---
+
+
+### Tags
+- **Flask** 
+- **Python**
+- **Open Source**
+- **Authentication**
+- **Flask-Restx**
+- **JWT**
+- **Werkzeug**
+- **React TypeScript**
+- **Scalable**
+- **Modular**
+- **Documentation**
+
