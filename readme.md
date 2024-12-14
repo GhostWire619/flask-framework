@@ -82,7 +82,7 @@ To run the project, follow these steps:
 
 6. **Run the application:**
    ```bash
-   python manage.py run
+   gunicorn -w 4 -k eventlet wsgi:app
    ```
 
 ## Updating the Requirements File

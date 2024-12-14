@@ -177,6 +177,7 @@ flask-migrate
 flask-jwt-extended
 python-decouple
 python-dotenv
+gunicorn
 Flask-CORS
 werkzeug""",
     f"{project_name}/.env": """SECRET_KEY=586dfe9c5a2bfe48ae0781fe
