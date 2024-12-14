@@ -215,6 +215,7 @@ instance/
 .idea/
 *.sublime-project
 *.sublime-workspace
+.env
 
 # Node modules
 node_modules/
